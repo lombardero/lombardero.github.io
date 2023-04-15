@@ -17,14 +17,11 @@ class Contact extends Component {
       <section id="contact">
         <Fade bottom duration={1000}>
         <div className="row section-head">
-          <div>
           <div className="two columns header-col">
             <h1>
-              <span>Get In Touch.</span>
             </h1>
           </div>
-          </div>
-          <div className="row">
+          <div className="row contact-details">
             <div>
               <div>
               <h3>Contact Details</h3>
