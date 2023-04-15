@@ -818,6 +818,7 @@ call-to-action .button {
   font-family: "FontAwesome";
   content: "\f0e0";
   padding-right: 10px;
+  padding-bottom: 200px;
   font-size: 72px;
   line-height: 72px;
   text-align: left;
@@ -836,7 +837,6 @@ call-to-action .button {
 }
 #contact .header-col {
   padding-top: 0px;
-  padding-bottom: 200px;
 }
 
 #contact .envelope-icon {
