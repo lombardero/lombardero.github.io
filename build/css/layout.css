@@ -153,6 +153,7 @@ header .scrolldown a:hover {
 /* hide toggle button */
 #nav-wrap > a.mobile-btn {
   display: none;
+  background-color: transparent;
 }
 
 ul#nav {
@@ -785,7 +786,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-  background: #020007;
+  background: #080020;
   padding-top: 96px;
   padding-bottom: 102px;
   color: #dbe9f4;
@@ -835,9 +836,15 @@ call-to-action .button {
 }
 #contact .header-col {
   padding-top: 0px;
-  padding-bottom: 60px;
-  padding-right: 150px;
-  padding-left: 100px;
+  padding-bottom: 200px;
+}
+
+#contact .envelope-icon {
+  padding: 10px;
+}
+
+#contact .contact-details {
+  padding-left: 40px;
 }
 
 /* contact form */
