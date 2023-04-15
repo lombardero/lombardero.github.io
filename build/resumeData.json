@@ -1,0 +1,37 @@
+{
+  "main": {
+    "presentation":"Hi, I am Manuel",
+    "name":"Manuel Lombardero Botey",
+    "description":"I like building things",
+    "image":"profilepic.jpg",
+    "bio":"I design, build & launch products at Picnic Technologies. Former Bridge Engineer and Software Developer. I've lived, studied, and worked in 7 cities across 3 continents.",
+    "contactmessage":"Get in touch",
+    "email": "manuel.lombardero.botey@gmail.com",
+    "phone": "+31 620 572 608",
+    "github":"https://github.com/lombardero",
+    "project":"https://www.linkedin.com/in/lombarderomanuel/",
+    "address":{
+      "city":"Amsterdam",
+      "state":"Noord-Holland",
+      "zip": ""
+    },
+    "resumedownload":"https://drive.google.com/u/0/uc?id=1-3CDJ_oFmRj0XI7k6VwvVQvnKUQuDM8X&export=download",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/lombarderobot",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lombarderomanuel/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/lombardero",
+        "className":"fa fa-github"
+      }
+    ]
+  }
+}
